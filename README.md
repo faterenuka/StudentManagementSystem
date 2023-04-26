@@ -76,8 +76,8 @@ spring.jpa.hibernate.ddl-auto=update
 ## Student-Controller
 [![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/StudentController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/StudentController.png?raw=true)
 
-## Subject-Controller
-[![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/SubjectController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/SubjectController.png?raw=true)
+## Course-Controller
+[![SwaggerUI](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Course.png?raw=true)](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Course.png?raw=true)
 
 ## Address-Controller
 [![SwaggerUI](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Address.png?raw=true)](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Address.png?raw=true)
