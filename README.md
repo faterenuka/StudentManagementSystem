@@ -79,8 +79,8 @@ spring.jpa.hibernate.ddl-auto=update
 ## Subject-Controller
 [![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/SubjectController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/SubjectController.png?raw=true)
 
-## Teacher-Controller
-[![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/TeacherController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/TeacherController.png?raw=true)
+## Address-Controller
+[![SwaggerUI](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Address.png?raw=true)](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Address.png?raw=true)
 
 ## Thank You!for your time :)
 [![SwaggerUI](https://allfreethankyounotes.com/wp-content/uploads/2021/08/all-free-thank-you-gif-6.gif)
