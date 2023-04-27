@@ -37,34 +37,46 @@ spring.jpa.hibernate.ddl-auto=update
 
 ### Student
 ```
+
 {
-  "id": 6,
-  "name": "Swapnil",
-  "email": "swapnil@mail.com",
-  "mobile_number":7865432109,
-  "courses": [
+  "id": 2,
+  "name": "Renuka",
+  "email": "renufate@mail.com",
+  "mobile_no": "7654321890",
+  "parents_name": "Ram Fate",
+  "addresses": [
     {
-      "id": 5,
-      "name": "maths"
-      "fees":6700,
-      "duration":"1 year"
+      "id": 2,
+      "area": "Mlk",
+      "state": "Mh",
+      "district": "Buldhana",
+      "pinecode": "443101",
+      "addressType": "Home"
     }
   ]
 }
 ```
-### Teacher
+### Student_Course mapping
 ```
 {
-  "id": 7,
+  "id": 2,
   "name": "Renuka",
-  "email":"renuka@gmail.com",
-  "yearOfExperience":3,
-  "subjects": [
+  "email": "renufate@mail.com",
+  "mobile_no": "7654321890",
+  "parents_name": "Ram Fate",
+  "courseDtos": [
     {
-      "id": 5,
-      "name": "maths",
-      "fees":6700,
-      "duration":"1 year"
+      "id": 1,
+      "courseName": "Java",
+      "courseType": "backend",
+      "duration": "5 months"
+    },
+    
+    {
+      "id": 2,
+      "courseName": "HTML",
+      "courseType": "Fronted",
+      "duration": "3 months"
     }
   ]
 }
