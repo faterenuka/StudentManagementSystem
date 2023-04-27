@@ -3,7 +3,7 @@ This is an Individual project, I have worked on rest API service for an Student 
 
 ## Entity Relationship Diagram
 
-[![ER Diagram](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/ER%20diagram%20(2).png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/ER%20diagram%20(2).png?raw=true)
+[![ER Diagram](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Blank%20diagram.png?raw=true)](https://github.com/faterenuka/StudentManagementSystem/blob/main/swaggerImages/Blank%20diagram.png?raw=true)
 
 
 # Functionalities
